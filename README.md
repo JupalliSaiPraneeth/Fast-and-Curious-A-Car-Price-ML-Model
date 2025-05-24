@@ -1,4 +1,4 @@
-# Car Price Prediction Using Machine Learning 🚗📊
+# Car Price Prediction Using Machine Learning 
 
 This project is a beginner-friendly machine learning analysis aimed at predicting car prices based on various features from a structured dataset. The project walks through data preprocessing, exploratory data analysis (EDA), and basic modeling using `scikit-learn`.
 
